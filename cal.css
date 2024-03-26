@@ -1,0 +1,33 @@
+.md{
+    border: 2px solid;
+    border-radius: 20px;
+    height: 570px;
+    width: 300px;
+    background-color:black ;
+}
+.md1{
+    border: 1px solid;
+    border-radius: 20px;
+    height: 250px;
+    width: 300px;
+   background-color: whitesmoke;
+   
+}
+.md2{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    column-gap: 18px;
+    row-gap: 12px;
+}
+.cd{
+    border: 1px solid;
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
